@@ -1,7 +1,13 @@
 # Hi There, I am Snigdha!
 B.Tech in Computer Science & Engineering (Graduated in 2025) 🎓 
+
+
 Passionate about coding, problem-solving, and building impactful software
+
+
 Always learning — exploring Data Structures, Algorithms, Web Development, and AI/ML
+
+
 Believe that a career is more than a job. it’s a journey of continuous growth
 
 ## 🌐 Socials:
